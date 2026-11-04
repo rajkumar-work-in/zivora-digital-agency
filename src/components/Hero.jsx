@@ -34,7 +34,7 @@ const Hero = () => {
       viewport={{once: true}}
       className="text-sm sm:text-lg font-medium text-gray-500 dark:text-white/75 max-w-4/5 sm:max-w-lg pb-3">
         Creating meaningful connections and turning big ideas into interactive
-        digital 
+        digital experience.
       </motion.p>
 
       <motion.div
